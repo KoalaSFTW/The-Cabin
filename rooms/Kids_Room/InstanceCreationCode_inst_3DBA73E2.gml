@@ -1,0 +1,1 @@
+text="A little squid plush and wooden horse are put here. Maybe there are tiny little men in the horse. I should be careful."

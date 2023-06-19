@@ -1,0 +1,1 @@
+text = "a pile of gold coins, I hope it was worth the effort" //put gold here

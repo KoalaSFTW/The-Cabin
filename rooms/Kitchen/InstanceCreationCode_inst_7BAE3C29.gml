@@ -1,0 +1,1 @@
+text = "These plants are everywhere. I wonder if they're a favourite?"

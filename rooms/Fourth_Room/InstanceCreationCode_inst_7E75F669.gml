@@ -1,0 +1,1 @@
+text = "There is a gun on this table"

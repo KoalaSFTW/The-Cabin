@@ -1,0 +1,2 @@
+text="Locked."
+imSupposedToDisappear = true

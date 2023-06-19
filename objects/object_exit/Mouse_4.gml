@@ -1,0 +1,1 @@
+global.exitstate = true;

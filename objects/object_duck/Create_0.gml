@@ -1,0 +1,9 @@
+grav = 1.8;
+jspd = 18;
+vspd = 0;
+jumping = false;
+falling = false;
+ducking = false;
+termVelocity = 10;
+read=false
+myTextbox=noone

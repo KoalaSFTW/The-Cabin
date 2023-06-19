@@ -1,0 +1,1 @@
+text = "All kinds of paintings litter the walls. They almost feel surreal."

@@ -1,0 +1,1 @@
+text="I need to find shelter, food, anything. I won't survive out here much longer."

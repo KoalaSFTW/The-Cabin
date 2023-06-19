@@ -1,0 +1,1 @@
+text = "The door is not budging, I can't go back..."

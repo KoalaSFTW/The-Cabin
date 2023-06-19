@@ -1,0 +1,1 @@
+text="A jump rope and some building blocks. The rope looks too cheap to use for anything."

@@ -1,0 +1,1 @@
+text="No lakes, no rivers. I can barely see the sun through all the clouds at day and night..."

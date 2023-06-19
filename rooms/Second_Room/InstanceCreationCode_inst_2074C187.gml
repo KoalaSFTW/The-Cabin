@@ -1,0 +1,1 @@
+text = "The upper path will lead you to the exit, but the other path hides a great treasure behind it. \n\n Choose wisely..."

@@ -1,0 +1,1 @@
+text = "That thing is still out there, I can't leave."

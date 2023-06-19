@@ -1,0 +1,1 @@
+text = "Have you finally decided to give up?"
